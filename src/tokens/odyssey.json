@@ -1,0 +1,35 @@
+[
+    {
+      "name": "Wrapped IP",
+      "address": "0x1516000000000000000000000000000000000000",
+      "symbol": "WIP",
+      "decimals": 18,
+      "chainId": 1516,
+      "logoURI": "https://ipfs.io/ipfs/bafkreiaowpgufbwzroooxxfnzy74ookc3mn5jo5mmidc72uqfj3pxrm6s4"
+    },
+    {
+        "name": "Farmer Are The Enemies",
+        "address": "0x181c610790F508F281b48Ca29ddc1DFfff9B0D80",
+        "symbol": "FATE",
+        "decimals": 18,
+        "chainId": 1516,
+        "logoURI": "https://ipfs.io/ipfs/bafkreifuayaqchnvvbeaoixhk35sqmrm6bd26qwberkfwbqw2gmglryk2u"
+      },
+    {
+      "name": "Jutsu",
+      "address": "0x368525E90dfB4e6CF11d6E2037a2551A7212a4c0",
+      "symbol": "JUTSU",
+      "decimals": 18,
+      "chainId": 1516,
+      "logoURI": "https://ipfs.io/ipfs/bafkreifuayaqchnvvbeaoixhk35sqmrm6bd26qwberkfwbqw2gmglryk2u"
+    },
+    {
+      "name": "USDCoin",
+      "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1516,
+      "logoURI": "https://ipfs.io/ipfs/bafkreidncrqb2cyrbecg4ntfsk4mb4sw76yhl5urqc3f3xozpltglve7ty"
+    }
+  ]
+  
