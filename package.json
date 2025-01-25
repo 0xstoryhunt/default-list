@@ -1,24 +1,23 @@
 {
-  "name": "@storyhunt/default-token-list",
-  "version": "0.1.0",
+  "name": "@storyhunt/default-list",
+  "version": "1.0.0",
   "description": "StoryHunt default token list",
-  "main": "build/storyhunt-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/storyhunt-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.constant.js > build/storyhunt-default.constantlist.json  && node src/write.token.js > build/storyhunt-default.tokenlist.json ",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/storyhunt-default.tokenlist.json"
+    "build/storyhunt-default.tokenlist.json",
+    "build/storyhunt-default.constantlist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0xstoryhunt/default-token-list.git"
+    "url": "git+https://github.com/0xstoryhunt/default-list.git"
   },
   "keywords": [
     "storyhunt",
     "default",
-    "token",
     "list"
   ],  
   "publishConfig": {
@@ -29,9 +28,9 @@
   "author": "StoryHunt Org",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/0xstoryhunt/default-token-list/issues"
+    "url": "https://github.com/0xstoryhunt/default-list/issues"
   },
-  "homepage": "https://github.com/0xstoryhunt/default-token-list#readme",
+  "homepage": "https://github.com/0xstoryhunt/default-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@storyhunt/token-lists": "1.0.0",
