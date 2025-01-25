@@ -1,62 +1,64 @@
 {
-  "MULTICALL_ADDRESS": {
-    "name": "MULTICALL ADDRESS",
-    "address": "0x34aE4885Cc0d62ef17033C73C57797e13A42cbB8",
-    "shortName": "MULTICALL_ADDRESS",
-    "chainId": 1516
-  },
-  "MULTICALL2_ADDRESS": {
-    "name": "MULTICALL2 ADDRESS",
-    "address": "0x372a5eA4b3730EA67BAdB86DF4936dbcEF7E6055",
-    "shortName": "MULTICALL2_ADDRESS",
-    "chainId": 1516
-  },
-  "TICKLENS_ADDRESS": {
-    "name": "TICKLENS ADDRESS",
-    "address": "0xcccc50E7fEeE21685A0Ba147868433225378de39",
-    "shortName": "TICKLENS_ADDRESS",
-    "chainId": 1516
-  },
-  "QUOTERV2_ADDRESS": {
-    "name": "QUOTER V2 ADDRESS",
-    "address": "0x6E35455e88Ec860E0a98D01d21D983D67AB58ff7",
-    "shortName": "QUOTERV2_ADDRESS",
-    "chainId": 1516
-  },
-  "QUOTER_ADDRESS": {
-    "name": "QUOTER ADDRESS",
-    "address": "0xf0624a11AeDb6C866DFa9A1bDFf049B4E9cD9FA8",
-    "shortName": "QUOTER_ADDRESS",
-    "chainId": 1516
-  },
-  "NFT_POSITION_DESCRIPTOR_ADDRESS": {
-    "name": "NON FUNGIBLE TOKEN POSITION DESCRIPTOR ADDRESS",
-    "address": "0xBD95b1D9489D97A5b443C2b100590a1C36F6B311",
-    "shortName": "NFT_POSITION_DESCRIPTOR_ADDRESS",
-    "chainId": 1516
-  },
-  "NFT_POSITION_MANAGER_ADDRESS": {
-    "name": "NON FUNGIBLE TOKEN POSITION MANAGER ADDRESS",
-    "address": "0xDb4718A9862F4F0Ff3dBA4cBdf43182a116008aF",
-    "shortName": "NFT_POSITION_MANAGER_ADDRESS",
-    "chainId": 1516
-  },
-  "SWAP_ROUTER_ADDRESS": {
-    "name": "SWAP ROUTER ADDRESS",
-    "address": "0xDB308E9BA8D704655eeAe1A10043e336f08171c7",
-    "shortName": "SWAP_ROUTER_ADDRESS",
-    "chainId": 1516
-  },
-  "ALPHA_HUNTER_ADDRESS": {
-    "name": "ALPHA HUNTER ADDRESS",
-    "address": "0x8294cbe117dC0B5adc3Bc3052f6bB6f6C8d55900",
-    "shortName": "ALPHA_HUNTER_ADDRESS",
-    "chainId": 1516
-  },
-  "LM_POOL_DEPLOYER_ADDRESS": {
-    "name": "LM POOL DEPLOYER ADDRESS",
-    "address": "0x3236137E978267E700aa0c0bDfa449F41f9E5082",
-    "shortName": "LM_POOL_DEPLOYER_ADDRESS",
-    "chainId": 1516
+  "1516": {
+    "MULTICALL_ADDRESS": {
+      "name": "MULTICALL ADDRESS",
+      "address": "0x34aE4885Cc0d62ef17033C73C57797e13A42cbB8",
+      "shortName": "MULTICALL_ADDRESS",
+      "chainId": 1516
+    },
+    "MULTICALL2_ADDRESS": {
+      "name": "MULTICALL2 ADDRESS",
+      "address": "0x372a5eA4b3730EA67BAdB86DF4936dbcEF7E6055",
+      "shortName": "MULTICALL2_ADDRESS",
+      "chainId": 1516
+    },
+    "TICKLENS_ADDRESS": {
+      "name": "TICKLENS ADDRESS",
+      "address": "0xcccc50E7fEeE21685A0Ba147868433225378de39",
+      "shortName": "TICKLENS_ADDRESS",
+      "chainId": 1516
+    },
+    "QUOTERV2_ADDRESS": {
+      "name": "QUOTER V2 ADDRESS",
+      "address": "0x6E35455e88Ec860E0a98D01d21D983D67AB58ff7",
+      "shortName": "QUOTERV2_ADDRESS",
+      "chainId": 1516
+    },
+    "QUOTER_ADDRESS": {
+      "name": "QUOTER ADDRESS",
+      "address": "0xf0624a11AeDb6C866DFa9A1bDFf049B4E9cD9FA8",
+      "shortName": "QUOTER_ADDRESS",
+      "chainId": 1516
+    },
+    "NFT_POSITION_DESCRIPTOR_ADDRESS": {
+      "name": "NON FUNGIBLE TOKEN POSITION DESCRIPTOR ADDRESS",
+      "address": "0xBD95b1D9489D97A5b443C2b100590a1C36F6B311",
+      "shortName": "NFT_POSITION_DESCRIPTOR_ADDRESS",
+      "chainId": 1516
+    },
+    "NFT_POSITION_MANAGER_ADDRESS": {
+      "name": "NON FUNGIBLE TOKEN POSITION MANAGER ADDRESS",
+      "address": "0xDb4718A9862F4F0Ff3dBA4cBdf43182a116008aF",
+      "shortName": "NFT_POSITION_MANAGER_ADDRESS",
+      "chainId": 1516
+    },
+    "SWAP_ROUTER_ADDRESS": {
+      "name": "SWAP ROUTER ADDRESS",
+      "address": "0xDB308E9BA8D704655eeAe1A10043e336f08171c7",
+      "shortName": "SWAP_ROUTER_ADDRESS",
+      "chainId": 1516
+    },
+    "ALPHA_HUNTER_ADDRESS": {
+      "name": "ALPHA HUNTER ADDRESS",
+      "address": "0x8294cbe117dC0B5adc3Bc3052f6bB6f6C8d55900",
+      "shortName": "ALPHA_HUNTER_ADDRESS",
+      "chainId": 1516
+    },
+    "LM_POOL_DEPLOYER_ADDRESS": {
+      "name": "LM POOL DEPLOYER ADDRESS",
+      "address": "0x3236137E978267E700aa0c0bDfa449F41f9E5082",
+      "shortName": "LM_POOL_DEPLOYER_ADDRESS",
+      "chainId": 1516
+    }
   }
 }

@@ -1,14 +1,16 @@
 {
-  "V3_POOL_DEPLOYER": {
-    "name": "V3 POOL DEPLOYER ADDRESS",
-    "address": "0x50c9B83f24e1334Af1B063A19fF28B358869729E",
-    "shortName": "V3_POOL_DEPLOYER",
-    "chainId": 1516
-  },
-  "V3_FACTORY_CONTRACT": {
-    "name": "V3 FACTORY CONTRACT ADDRESS",
-    "address": "0xa96Ef9BBfc361Eb0dc6aC3C788e49f1e6C2cA60d",
-    "shortName": "V3_FACTORY_CONTRACT",
-    "chainId": 1516
+  "1516": {
+    "V3_POOL_DEPLOYER": {
+      "name": "V3 POOL DEPLOYER ADDRESS",
+      "address": "0x50c9B83f24e1334Af1B063A19fF28B358869729E",
+      "shortName": "V3_POOL_DEPLOYER",
+      "chainId": 1516
+    },
+    "V3_FACTORY_CONTRACT": {
+      "name": "V3 FACTORY CONTRACT ADDRESS",
+      "address": "0xa96Ef9BBfc361Eb0dc6aC3C788e49f1e6C2cA60d",
+      "shortName": "V3_FACTORY_CONTRACT",
+      "chainId": 1516
+    }
   }
 }
