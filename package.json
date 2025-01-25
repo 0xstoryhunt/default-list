@@ -1,6 +1,6 @@
 {
   "name": "@storyhunt/default-list",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "StoryHunt default token list",
   "scripts": {
     "test": "mocha",
