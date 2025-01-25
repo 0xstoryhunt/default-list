@@ -3,7 +3,7 @@ const schema = require('@storyhunt/token-lists/src/tokenlist.schema.json');
 const { expect } = require('chai');
 const { getAddress } = require('@ethersproject/address');
 const Ajv = require('ajv');
-const buildList = require('../src/buildList');
+const buildList = require('../src/buildList.token');
 
 const ajv = new Ajv({ allErrors: true, format: 'full' });
 const validator = ajv.compile(schema);
