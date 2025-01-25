@@ -1,8 +1,8 @@
-[
-    {
-      "name": "SUBGRAPH URL",
-      "url": "https://api.goldsky.com/api/public/project_cm622e6therld01xmakoh6zkv/subgraphs/testnet/1.0.0-new/gn",
-      "shortName": "SUBGRAPH_URL",
-      "chainId": 1516
-    }
-]
+{
+  "SUBGRAPH_URL": {
+    "name": "SUBGRAPH URL",
+    "url": "https://api.goldsky.com/api/public/project_cm622e6therld01xmakoh6zkv/subgraphs/testnet/1.0.0-new/gn",
+    "shortName": "SUBGRAPH_URL",
+    "chainId": 1516
+  }
+}
