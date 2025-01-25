@@ -22,6 +22,6 @@ module.exports = function buildList() {
     logoURI: "https://ipfs.io/ipfs/bafkreicy5wj4ahfeaopdfpduna3yf7klfl6nkum6pg4buwj6cdjmvegilu",
     keywords: ["default", "storyhunt", "constants", "list"],
     chains: Object.values(ChainId),
-    constants: {...core_contracts, ...periphery_contracts, ...graph}
+    constants: { [ChainId.ODYSSEY]: { ...core_contracts[ChainId.ODYSSEY], ...periphery_contracts[ChainId.ODYSSEY], ...graph[ChainId.ODYSSEY] }, [ChainId.STORY]: { ...core_contracts[ChainId.STORY], ...periphery_contracts[ChainId.STORY], ...graph[ChainId.STORY] } },
   };
 };
