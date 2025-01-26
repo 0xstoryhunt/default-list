@@ -1,7 +1,7 @@
 {
   "name": "@storyhunt/default-list",
-  "version": "1.0.3",
-  "description": "StoryHunt default token list",
+  "version": "1.0.4",
+  "description": "StoryHunt default list",
   "scripts": {
     "test": "mocha",
     "build": "rimraf build && mkdir -p build && node src/write.constant.js > build/storyhunt-default.constantlist.json  && node src/write.token.js > build/storyhunt-default.tokenlist.json ",
