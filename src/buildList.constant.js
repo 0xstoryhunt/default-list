@@ -1,7 +1,7 @@
 const { version } = require("../package.json");
 const core_contracts = require("./constants/core-contract.json");
 const periphery_contracts = require("./constants/periphery-contract.json");
-const graph = require("./constants/graph.json");
+const constants = require("./constants/constants.json");
 
 const ChainId = {
   ODYSSEY: 1516,
@@ -22,6 +22,6 @@ module.exports = function buildList() {
     logoURI: "https://ipfs.io/ipfs/bafkreicy5wj4ahfeaopdfpduna3yf7klfl6nkum6pg4buwj6cdjmvegilu",
     keywords: ["default", "storyhunt", "constants", "list"],
     chains: Object.values(ChainId),
-    constants: { [ChainId.ODYSSEY]: { ...core_contracts[ChainId.ODYSSEY], ...periphery_contracts[ChainId.ODYSSEY], ...graph[ChainId.ODYSSEY] }, [ChainId.STORY]: { ...core_contracts[ChainId.STORY], ...periphery_contracts[ChainId.STORY], ...graph[ChainId.STORY] } },
+    constants: { [ChainId.ODYSSEY]: { ...core_contracts[ChainId.ODYSSEY], ...periphery_contracts[ChainId.ODYSSEY], ...constants[ChainId.ODYSSEY] }, [ChainId.STORY]: { ...core_contracts[ChainId.STORY], ...periphery_contracts[ChainId.STORY], ...constants[ChainId.STORY] } },
   };
 };
