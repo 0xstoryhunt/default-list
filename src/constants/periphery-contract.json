@@ -50,13 +50,13 @@
     },
     "ALPHA_HUNTER_ADDRESS": {
       "name": "ALPHA HUNTER ADDRESS",
-      "address": "0x7DC66165b101579148bfaD7f691C30d818bc5f39",
+      "address": "0xEf29EaC9CDCa7CC9cb26a06D6F2e9C147cbfC6FE",
       "shortName": "ALPHA_HUNTER_ADDRESS",
       "chainId": 1516
     },
     "LM_POOL_DEPLOYER_ADDRESS": {
       "name": "LM POOL DEPLOYER ADDRESS",
-      "address": "0x7eC09ff094b9C4b92A9063EFD9Cc21479Ec0A15a",
+      "address": "0x7247D90BcE644e44A7448AA11e6162D3056f29f1",
       "shortName": "LM_POOL_DEPLOYER_ADDRESS",
       "chainId": 1516
     }
