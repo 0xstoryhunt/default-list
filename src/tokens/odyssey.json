@@ -49,8 +49,8 @@
   },{
     "name": "Wrapped BTC",
     "address": "0xa1a186f72bbe74ae1232ecec2fed407784263089",
-    "symbol": "USDC",
-    "decimals": 6,
+    "symbol": "WBTC",
+    "decimals": 8,
     "chainId": 1516,
     "logoURI": "https://ipfs.io/ipfs/bafkreicir3m6lv6kbbyzhx2fm5qxhrmawl5yxh6ubk4qmgpzcabjzqnofa"
   }
