@@ -1,35 +1,57 @@
 [
-    {
-      "name": "Wrapped IP",
-      "address": "0x1516000000000000000000000000000000000000",
-      "symbol": "WIP",
-      "decimals": 18,
-      "chainId": 1516,
-      "logoURI": "https://ipfs.io/ipfs/bafkreiaowpgufbwzroooxxfnzy74ookc3mn5jo5mmidc72uqfj3pxrm6s4"
-    },
-    {
-        "name": "Farmer Are The Enemies",
-        "address": "0x181c610790F508F281b48Ca29ddc1DFfff9B0D80",
-        "symbol": "FATE",
-        "decimals": 18,
-        "chainId": 1516,
-        "logoURI": "https://ipfs.io/ipfs/bafkreifuayaqchnvvbeaoixhk35sqmrm6bd26qwberkfwbqw2gmglryk2u"
-      },
-    {
-      "name": "Jutsu",
-      "address": "0x368525E90dfB4e6CF11d6E2037a2551A7212a4c0",
-      "symbol": "JUTSU",
-      "decimals": 18,
-      "chainId": 1516,
-      "logoURI": "https://ipfs.io/ipfs/bafkreifuayaqchnvvbeaoixhk35sqmrm6bd26qwberkfwbqw2gmglryk2u"
-    },
-    {
-      "name": "USDCoin",
-      "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
-      "symbol": "USDC",
-      "decimals": 6,
-      "chainId": 1516,
-      "logoURI": "https://ipfs.io/ipfs/bafkreidncrqb2cyrbecg4ntfsk4mb4sw76yhl5urqc3f3xozpltglve7ty"
-    }
-  ]
-  
+  {
+    "name": "IP",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "IP",
+    "decimals": 6,
+    "chainId": 1516,
+    "logoURI": "https://ipfs.io/ipfs/bafybeiejtsngx3ved4er3buy3f6fjlv5bduezdcbkyw4d37kxnejscwk2q"
+  },
+  {
+    "name": "Wrapped IP",
+    "address": "0x1516000000000000000000000000000000000000",
+    "symbol": "WIP",
+    "decimals": 18,
+    "chainId": 1516,
+    "logoURI": "https://ipfs.io/ipfs/bafybeicejmzsrwohf552jdkulxiksrsmrc46rppghzvroz3ttbj33kjqpq"
+  },
+  {
+    "name": "Farmer Are The Enemies",
+    "address": "0x181c610790F508F281b48Ca29ddc1DFfff9B0D80",
+    "symbol": "FATE",
+    "decimals": 18,
+    "chainId": 1516,
+    "logoURI": "https://ipfs.io/ipfs/bafkreicwvwj6ein3in3v4gmkwm44ruxx2emffagoiphheqnrjwfw26mdhu"
+  },
+  {
+    "name": "Jutsu",
+    "address": "0x368525E90dfB4e6CF11d6E2037a2551A7212a4c0",
+    "symbol": "JUTSU",
+    "decimals": 18,
+    "chainId": 1516,
+    "logoURI": "https://ipfs.io/ipfs/bafkreifuayaqchnvvbeaoixhk35sqmrm6bd26qwberkfwbqw2gmglryk2u"
+  },
+  {
+    "name": "USDCoin",
+    "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 1516,
+    "logoURI": "https://ipfs.io/ipfs/bafkreidncrqb2cyrbecg4ntfsk4mb4sw76yhl5urqc3f3xozpltglve7ty"
+  },
+  {
+    "name": "Wrapped ETH",
+    "address": "0xa0b9f31ee26ebba1af296e43897bea5e76761e68",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 1516,
+    "logoURI": "https://ipfs.io/ipfs/bafkreigckpl4lvbag6b6gg66duz6cq7wvhhb335mesvv4buurbdws24aue"
+  },{
+    "name": "Wrapped BTC",
+    "address": "0xa1a186f72bbe74ae1232ecec2fed407784263089",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 1516,
+    "logoURI": "https://ipfs.io/ipfs/bafkreicir3m6lv6kbbyzhx2fm5qxhrmawl5yxh6ubk4qmgpzcabjzqnofa"
+  }
+]
