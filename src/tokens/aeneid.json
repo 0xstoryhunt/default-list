@@ -9,49 +9,34 @@
   },
   {
     "name": "Wrapped IP",
-    "address": "0x1315000000000000000000000000000000000000",
+    "address": "0x1514000000000000000000000000000000000000",
     "symbol": "WIP",
     "decimals": 18,
     "chainId": 1315,
     "logoURI": "https://ipfs.io/ipfs/bafkreidkfhg7hkfl6ysuyqgfaggmjn22fkn34sd3sgkfslhodgqiilkj4u"
   },
   {
-    "name": "Farmer Are The Enemies",
-    "address": "0x181c610790F508F281b48Ca29ddc1DFfff9B0D80",
-    "symbol": "FATE",
-    "decimals": 18,
-    "chainId": 1315,
-    "logoURI": "https://ipfs.io/ipfs/bafkreicwvwj6ein3in3v4gmkwm44ruxx2emffagoiphheqnrjwfw26mdhu"
-  },
-  {
-    "name": "Jutsu",
-    "address": "0x368525E90dfB4e6CF11d6E2037a2551A7212a4c0",
-    "symbol": "JUTSU",
-    "decimals": 18,
-    "chainId": 1315,
-    "logoURI": "https://ipfs.io/ipfs/bafkreifuayaqchnvvbeaoixhk35sqmrm6bd26qwberkfwbqw2gmglryk2u"
-  },
-  {
-    "name": "USDCoin",
-    "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+    "name": "USD Coin",
+    "address": "0x8c7C52EabB0FCbcAeBCe2556D9A719d539EA02D8",
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 1315,
     "logoURI": "https://ipfs.io/ipfs/bafkreidncrqb2cyrbecg4ntfsk4mb4sw76yhl5urqc3f3xozpltglve7ty"
   },
   {
+    "name": "USD Tether",
+    "address": "0x3c381171558d0300D12bC6311C5b5f66403737ab",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 1315,
+    "logoURI": "https://ipfs.io/ipfs/bafkreia4f3h4rqekqineqopsvyg7dwdznkg7em4ttnjxwtrgkfh2j6irsy"
+  },
+  {
     "name": "Wrapped ETH",
-    "address": "0xa0b9f31ee26ebba1af296e43897bea5e76761e68",
+    "address": "0x40559a0e871D0308E540f6F2e5C975904cf0bF8A",
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 1315,
     "logoURI": "https://ipfs.io/ipfs/bafkreigckpl4lvbag6b6gg66duz6cq7wvhhb335mesvv4buurbdws24aue"
-  },{
-    "name": "Wrapped BTC",
-    "address": "0xA1a186F72Bbe74Ae1232EcEc2Fed407784263089",
-    "symbol": "WBTC",
-    "decimals": 8,
-    "chainId": 1315,
-    "logoURI": "https://ipfs.io/ipfs/bafkreicir3m6lv6kbbyzhx2fm5qxhrmawl5yxh6ubk4qmgpzcabjzqnofa"
   }
 ]
