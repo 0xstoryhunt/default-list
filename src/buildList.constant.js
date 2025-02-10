@@ -1,5 +1,8 @@
 const { version } = require("../package.json");
 
+//interfaces
+const interfaces = require("./constants/interfaces.json");
+
 //story
 const story_core_contracts = require("./constants/story/core-contract.json");
 const story_periphery_contracts = require("./constants/story/periphery-contract.json");
@@ -38,6 +41,7 @@ module.exports = function buildList() {
     keywords: ["default", "storyhunt", "constants", "list"],
     chains: Object.values(ChainId),
     constants: {
+      interfaces,
       [ChainId.STORY]: {...story_constants, ...story_core_contracts, ...story_periphery_contracts},
       [ChainId.AENEID]: {...aeneid_constants, ...aeneid_core_contracts, ...aeneid_periphery_contracts},
       [ChainId.ODYSSEY]: {...odyssey_constants, ...odyssey_core_contracts, ...odyssey_periphery_contracts},
