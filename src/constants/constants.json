@@ -1,11 +1,5 @@
 {
   "1516": {
-    "SUBGRAPH_URL": {
-      "name": "SUBGRAPH URL",
-      "url": "https://api.goldsky.com/api/public/project_cm3zj9u61wxu901wog58adpjp/subgraphs/storyhunt-graph/1.0.5/gn",
-      "shortName": "SUBGRAPH_URL",
-      "chainId": 1516
-    },
     "POOL_INIT_CODE_HASH": {
       "name": "POOL INIT CODE HASH",
       "address": "0x5c1ebb91ef1669cb3e664cbf78650858b19d8a4247ca18abab152d5d4f1604db",

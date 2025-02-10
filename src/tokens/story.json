@@ -1,1 +1,18 @@
-[]
+[
+    {
+      "name": "IP",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "IP",
+      "decimals": 6,
+      "chainId": 1514,
+      "logoURI": "https://ipfs.io/ipfs/bafkreidkfhg7hkfl6ysuyqgfaggmjn22fkn34sd3sgkfslhodgqiilkj4u"
+    },
+    {
+      "name": "Wrapped IP",
+      "address": "0x1514000000000000000000000000000000000000",
+      "symbol": "WIP",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://ipfs.io/ipfs/bafkreidkfhg7hkfl6ysuyqgfaggmjn22fkn34sd3sgkfslhodgqiilkj4u"
+    }
+]
