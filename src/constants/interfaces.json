@@ -237,7 +237,7 @@
     }
   },
   "V3_FACTORY_CONTRACT": {
-    "name": "V3 FACTORY CONTRACT ADDRESS",
+    "name": "V3 FACTORY CONTRACT",
     "shortName": "V3_FACTORY_CONTRACT",
     "interface": {
       "abi": [
@@ -3798,9 +3798,9 @@
       "deployedLinkReferences": {}
     }
   },
-  "MULTICALL_ADDRESS": {
-    "name": "MULTICALL ADDRESS",
-    "shortName": "MULTICALL_ADDRESS",
+  "MULTICALL_CONTRACT": {
+    "name": "MULTICALL CONTRACT",
+    "shortName": "MULTICALL_CONTRACT",
     "interface": {
       "abi": [
         {
@@ -4035,9 +4035,9 @@
       "id": 35
     }
   },
-  "MULTICALL2_ADDRESS": {
-    "name": "MULTICALL2 ADDRESS",
-    "shortName": "MULTICALL2_ADDRESS",
+  "MULTICALL2_CONTRACT": {
+    "name": "MULTICALL2 CONTRACT",
+    "shortName": "MULTICALL2_CONTRACT",
     "interface": {
       "abi": [
         {
@@ -4715,9 +4715,9 @@
       "id": 32
     }
   },
-  "TICKLENS_ADDRESS": {
-    "name": "TICKLENS ADDRESS",
-    "shortName": "TICKLENS_ADDRESS",
+  "TICKLENS_CONTRACT": {
+    "name": "TICKLENS CONTRACT",
+    "shortName": "TICKLENS_CONTRACT",
     "interface": {
       "abi": [
         {
@@ -4936,9 +4936,9 @@
       "id": 36
     }
   },
-  "QUOTERV2_ADDRESS": {
-    "name": "QUOTER V2 ADDRESS",
-    "shortName": "QUOTERV2_ADDRESS",
+  "QUOTERV2_CONTRACT": {
+    "name": "QUOTER V2 CONTRACT",
+    "shortName": "QUOTERV2_CONTRACT",
     "interface": {
       "_format": "hh-sol-artifact-1",
       "contractName": "IQuoterV2",
@@ -5151,9 +5151,9 @@
       "deployedLinkReferences": {}
     }
   },
-  "NFT_POSITION_DESCRIPTOR_ADDRESS": {
-    "name": "NON FUNGIBLE TOKEN POSITION DESCRIPTOR ADDRESS",
-    "shortName": "NFT_POSITION_DESCRIPTOR_ADDRESS",
+  "NFT_POSITION_DESCRIPTOR_CONTRACT": {
+    "name": "NON FUNGIBLE TOKEN POSITION DESCRIPTOR CONTRACT",
+    "shortName": "NFT_POSITION_DESCRIPTOR_CONTRACT",
     "interface": {
       "abi": [
         {
@@ -5744,9 +5744,9 @@
       "id": 1
     }
   },
-  "NFT_POSITION_MANAGER_ADDRESS": {
-    "name": "NON FUNGIBLE TOKEN POSITION MANAGER ADDRESS",
-    "shortName": "NFT_POSITION_MANAGER_ADDRESS",
+  "NFT_POSITION_MANAGER_CONTRACT": {
+    "name": "NON FUNGIBLE TOKEN POSITION MANAGER CONTRACT",
+    "shortName": "NFT_POSITION_MANAGER_CONTRACT",
     "interface": {
       "abi": [
         {
@@ -8622,9 +8622,9 @@
       "id": 0
     }
   },
-  "SWAP_ROUTER_ADDRESS": {
-    "name": "SWAP ROUTER ADDRESS",
-    "shortName": "SWAP_ROUTER_ADDRESS",
+  "SWAP_ROUTER_CONTRACT": {
+    "name": "SWAP ROUTER CONTRACT",
+    "shortName": "SWAP_ROUTER_CONTRACT",
     "interface": {
       "abi": [
         {
@@ -10101,9 +10101,9 @@
       "id": 2
     }
   },
-  "ALPHA_HUNTER_ADDRESS": {
-    "name": "ALPHA HUNTER ADDRESS",
-    "shortName": "ALPHA_HUNTER_ADDRESS",
+  "ALPHA_HUNTER_CONTRACT": {
+    "name": "ALPHA HUNTER CONTRACT",
+    "shortName": "ALPHA_HUNTER_CONTRACT",
     "interface": {
       "_format": "hh-sol-artifact-1",
       "contractName": "AlphaHunterV3",
@@ -11838,9 +11838,9 @@
       "deployedLinkReferences": {}
     }
   },
-  "LM_POOL_DEPLOYER_ADDRESS": {
-    "name": "LM POOL DEPLOYER ADDRESS",
-    "shortName": "LM_POOL_DEPLOYER_ADDRESS",
+  "LM_POOL_DEPLOYER_CONTRACT": {
+    "name": "LM POOL DEPLOYER CONTRACT",
+    "shortName": "LM_POOL_DEPLOYER_CONTRACT",
     "interface": {
       "_format": "hh-sol-artifact-1",
       "contractName": "StoryHuntV3LmPoolDeployer",
