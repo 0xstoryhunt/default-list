@@ -1,62 +1,62 @@
 {
-  "MULTICALL_ADDRESS": {
-    "name": "MULTICALL ADDRESS",
+  "MULTICALL_CONTRACT": {
+    "name": "MULTICALL CONTRACT",
     "address": "0x332BFE4C192a0e7531a6DAFA7C6DdB634c28f96D",
-    "shortName": "MULTICALL_ADDRESS",
+    "shortName": "MULTICALL_CONTRACT",
     "chainId": 1514
   },
-  "MULTICALL2_ADDRESS": {
-    "name": "MULTICALL2 ADDRESS",
+  "MULTICALL2_CONTRACT": {
+    "name": "MULTICALL2 CONTRACT",
     "address": "0xb2c1C97f2eeeA1acc434e4296a3181246b4c9b44",
-    "shortName": "MULTICALL2_ADDRESS",
+    "shortName": "MULTICALL2_CONTRACT",
     "chainId": 1514
   },
-  "TICKLENS_ADDRESS": {
-    "name": "TICKLENS ADDRESS",
+  "TICKLENS_CONTRACT": {
+    "name": "TICKLENS CONTRACT",
     "address": "0xA2931d7A41fF25328f908fd95136bb8377699071",
-    "shortName": "TICKLENS_ADDRESS",
+    "shortName": "TICKLENS_CONTRACT",
     "chainId": 1514
   },
-  "QUOTERV2_ADDRESS": {
-    "name": "QUOTER V2 ADDRESS",
+  "QUOTERV2_CONTRACT": {
+    "name": "QUOTER V2 CONTRACT",
     "address": "0x8A1E30721C4a202ab5c666493062d6Ded62b8988",
-    "shortName": "QUOTERV2_ADDRESS",
+    "shortName": "QUOTERV2_CONTRACT",
     "chainId": 1514
   },
-  "QUOTER_ADDRESS": {
-    "name": "QUOTER ADDRESS",
+  "QUOTER_CONTRACT": {
+    "name": "QUOTER CONTRACT",
     "address": "0xcE2F054C0cC8AAe0Bd68daD908a0ED5c842c362b",
-    "shortName": "QUOTER_ADDRESS",
+    "shortName": "QUOTER_CONTRACT",
     "chainId": 1514
   },
-  "NFT_POSITION_DESCRIPTOR_ADDRESS": {
-    "name": "NON FUNGIBLE TOKEN POSITION DESCRIPTOR ADDRESS",
+  "NFT_POSITION_DESCRIPTOR_CONTRACT": {
+    "name": "NON FUNGIBLE TOKEN POSITION DESCRIPTOR CONTRACT",
     "address": "0xAd851CaA6EFc896764868bBeb6de5f251ab79FE8",
-    "shortName": "NFT_POSITION_DESCRIPTOR_ADDRESS",
+    "shortName": "NFT_POSITION_DESCRIPTOR_CONTRACT",
     "chainId": 1514
   },
-  "NFT_POSITION_MANAGER_ADDRESS": {
-    "name": "NON FUNGIBLE TOKEN POSITION MANAGER ADDRESS",
+  "NFT_POSITION_MANAGER_CONTRACT": {
+    "name": "NON FUNGIBLE TOKEN POSITION MANAGER CONTRACT",
     "address": "0xc4965a978a909Ec458559f38e64BC7b1E060407d",
-    "shortName": "NFT_POSITION_MANAGER_ADDRESS",
+    "shortName": "NFT_POSITION_MANAGER_CONTRACT",
     "chainId": 1514
   },
-  "SWAP_ROUTER_ADDRESS": {
-    "name": "SWAP ROUTER ADDRESS",
+  "SWAP_ROUTER_CONTRACT": {
+    "name": "SWAP ROUTER CONTRACT",
     "address": "0xf21c3388F26d7A47A46263F0FC6A8db582Db59B8",
-    "shortName": "SWAP_ROUTER_ADDRESS",
+    "shortName": "SWAP_ROUTER_CONTRACT",
     "chainId": 1514
   },
-  "ALPHA_HUNTER_ADDRESS": {
-    "name": "ALPHA HUNTER ADDRESS",
+  "ALPHA_HUNTER_CONTRACT": {
+    "name": "ALPHA HUNTER CONTRACT",
     "address": "0x7504511BEf32BFF98d3cf296fe04e24c1fFCf0f4",
-    "shortName": "ALPHA_HUNTER_ADDRESS",
+    "shortName": "ALPHA_HUNTER_CONTRACT",
     "chainId": 1514
   },
-  "LM_POOL_DEPLOYER_ADDRESS": {
-    "name": "LM POOL DEPLOYER ADDRESS",
+  "LM_POOL_DEPLOYER_CONTRACT": {
+    "name": "LM POOL DEPLOYER CONTRACT",
     "address": "0x094F692E8e15b7b0EABe853135556F1af5065eb6",
-    "shortName": "LM_POOL_DEPLOYER_ADDRESS",
+    "shortName": "LM_POOL_DEPLOYER_CONTRACT",
     "chainId": 1514
   }
 }
