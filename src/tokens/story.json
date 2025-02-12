@@ -5,6 +5,7 @@
       "symbol": "IP",
       "decimals": 6,
       "chainId": 1514,
+      "isVerified": true,
       "logoURI": "https://ipfs.io/ipfs/bafkreidkfhg7hkfl6ysuyqgfaggmjn22fkn34sd3sgkfslhodgqiilkj4u"
     },
     {
@@ -13,6 +14,16 @@
       "symbol": "WIP",
       "decimals": 18,
       "chainId": 1514,
+      "isVerified": true,
       "logoURI": "https://ipfs.io/ipfs/bafkreidkfhg7hkfl6ysuyqgfaggmjn22fkn34sd3sgkfslhodgqiilkj4u"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1514,
+      "isVerified": true,
+      "logoURI": "https://ipfs.io/ipfs/bafkreidncrqb2cyrbecg4ntfsk4mb4sw76yhl5urqc3f3xozpltglve7ty"
     }
 ]
