@@ -3,7 +3,7 @@
       "name": "IP",
       "address": "0x0000000000000000000000000000000000000000",
       "symbol": "IP",
-      "decimals": 6,
+      "decimals": 18,
       "chainId": 1514,
       "isVerified": true,
       "logoURI": "https://ipfs.io/ipfs/bafkreidkfhg7hkfl6ysuyqgfaggmjn22fkn34sd3sgkfslhodgqiilkj4u"
@@ -25,5 +25,32 @@
       "chainId": 1514,
       "isVerified": true,
       "logoURI": "https://ipfs.io/ipfs/bafkreidncrqb2cyrbecg4ntfsk4mb4sw76yhl5urqc3f3xozpltglve7ty"
+    },
+    {
+      "name": "USD Tether",
+      "address": "0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1514,
+      "isVerified": true,
+      "logoURI": "https://ipfs.io/ipfs/bafkreia4f3h4rqekqineqopsvyg7dwdznkg7em4ttnjxwtrgkfh2j6irsy"
+    },
+    {
+      "name": "Wrapped ETH",
+      "address": "0xBAb93B7ad7fE8692A878B95a8e689423437cc500",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": true,
+      "logoURI": "https://ipfs.io/ipfs/bafkreigckpl4lvbag6b6gg66duz6cq7wvhhb335mesvv4buurbdws24aue"
+    },
+    {
+      "name": "VerioIP",
+      "address": "0x5267F7eE069CEB3D8F1c760c215569b79d0685aD",
+      "symbol": "vIP",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": true,
+      "logoURI": "https://ipfs.io/ipfs/bafkreic66g53sl2425xjsm4x6mdvxvhmtefkg4nprss45toruaudrbzvwu"
     }
 ]
