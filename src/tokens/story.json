@@ -52,5 +52,14 @@
       "chainId": 1514,
       "isVerified": true,
       "logoURI": "https://ipfs.io/ipfs/bafkreic66g53sl2425xjsm4x6mdvxvhmtefkg4nprss45toruaudrbzvwu"
-    }
+    },
+    {
+      "name": "StakedIP Token",
+      "address": "0xd07Faed671decf3C5A6cc038dAD97c8EFDb507c0",
+      "symbol": "stIP",
+      "decimals": "18",
+      "chainId": 1514,
+      "isVerified": true,
+      "logoURI": "https://ipfs.io/ipfs/bafkreifjwlmvzhgnooznmri5zszoitivgzcivdphlabl5kvznrhixcjy7m",
+  }
 ]
