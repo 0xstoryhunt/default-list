@@ -6,7 +6,7 @@
       "decimals": 18,
       "chainId": 1514,
       "isVerified": true,
-      "logoURI": "https://ipfs.io/ipfs/bafkreidkfhg7hkfl6ysuyqgfaggmjn22fkn34sd3sgkfslhodgqiilkj4u"
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/IP.png"
     },
     {
       "name": "Wrapped IP",
@@ -15,7 +15,7 @@
       "decimals": 18,
       "chainId": 1514,
       "isVerified": true,
-      "logoURI": "https://ipfs.io/ipfs/bafkreidkfhg7hkfl6ysuyqgfaggmjn22fkn34sd3sgkfslhodgqiilkj4u"
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/WIP.png"
     },
     {
       "name": "USD Coin",
@@ -24,7 +24,7 @@
       "decimals": 6,
       "chainId": 1514,
       "isVerified": true,
-      "logoURI": "https://ipfs.io/ipfs/bafkreidncrqb2cyrbecg4ntfsk4mb4sw76yhl5urqc3f3xozpltglve7ty"
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/USDC.png"
     },
     {
       "name": "USD Tether",
@@ -33,7 +33,7 @@
       "decimals": 6,
       "chainId": 1514,
       "isVerified": true,
-      "logoURI": "https://ipfs.io/ipfs/bafkreia4f3h4rqekqineqopsvyg7dwdznkg7em4ttnjxwtrgkfh2j6irsy"
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/USDT.png"
     },
     {
       "name": "Wrapped ETH",
@@ -42,7 +42,7 @@
       "decimals": 18,
       "chainId": 1514,
       "isVerified": true,
-      "logoURI": "https://ipfs.io/ipfs/bafkreigckpl4lvbag6b6gg66duz6cq7wvhhb335mesvv4buurbdws24aue"
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/WETH.png"
     },
     {
       "name": "VerioIP",
@@ -51,7 +51,7 @@
       "decimals": 18,
       "chainId": 1514,
       "isVerified": true,
-      "logoURI": "https://ipfs.io/ipfs/bafkreic66g53sl2425xjsm4x6mdvxvhmtefkg4nprss45toruaudrbzvwu"
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/vIP.jpeg"
     },
     {
       "name": "StakedIP Token",
@@ -60,6 +60,339 @@
       "decimals": 18,
       "chainId": 1514,
       "isVerified": true,
-      "logoURI": "https://ipfs.io/ipfs/bafkreifjwlmvzhgnooznmri5zszoitivgzcivdphlabl5kvznrhixcjy7m"
-  }
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/stIP.png"
+    },
+    {
+      "name": "Sona",
+      "address": "0x02353a3BD5c9668159cF9Fd54AC61b03212FCf41",
+      "symbol": "Sona",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/Sona.jpg"
+    },
+    {
+      "name": "Elon Musk",
+      "address": "0x0C46505f401e0a8337eEeCBE089973b69c95675d",
+      "symbol": "MUSK",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/MUSK.png"
+    },
+    {
+      "name": "red",
+      "address": "0x290a6885439e7d00569957CbFEDad844a4AcAE3B",
+      "symbol": "red",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/red.png"
+    },
+    {
+      "name": "Sona_Agent",
+      "address": "0x7ca6f90ab945ceA3580757E0DD9ce985DD576C98",
+      "symbol": "Sona_Agent",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/sona_agent.jpg"
+    },{
+      "name": "dwq",
+      "address": "0xf3853862fb3c13c919e2b168fa144969a6aC8a37",
+      "symbol": "dwq",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/dwq.jpg"
+    },
+    {
+      "name": "CryptoAI",
+      "address": "0xAd7Ef82D900BB83590721faFBdcD9dFb4E13645F",
+      "symbol": "CryptoAI",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/cryptoAI.jpg"
+    },
+    {
+      "name": "IP CATIPCAT",
+      "address": "0x132F3ed05d88E90D54C3085613b9222F15dbDBb6",
+      "symbol": "IPCAT",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/ipcat.gif"
+    },
+    {
+      "name": "Broccoli's Story",
+      "address": "0xAfa7eC446CbeCa2b9A1752edFd28908FF2E0eA71",
+      "symbol": "Broccoli",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/Broccoli.jpg"
+    },
+    {
+      "name": "Barron Trump",
+      "address": "0x0154B604ae240c5A0CD522F7aBc202A2cA0bb49d",
+      "symbol": "Barron",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/Barron.jpg"
+    },
+    {
+      "name": "NeuroBioSynai",
+      "address": "0xA7Cb8f5BC4df4123eEA7c092234eC6EA5Ffa8F79",
+      "symbol": "NBIO",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/NBIO.jpg"
+    },
+    {
+      "name": "jason",
+      "address": "0xA52DB6C067B366259f0Fee4A049701512cD0a447",
+      "symbol": "$JSON",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/%24JSON.png"
+    },
+    {
+      "name": "Jason Zhao",
+      "address": "0x1E7130f87E9e1272f8F84420FCb80dEa8Fd4F339",
+      "symbol": "Test",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/Test.png"
+    },
+    {
+      "name": "IPPY",
+      "address": "0x57E76c18F3fF56aD38b230dD10DeC27835B468F1",
+      "symbol": "IPPY",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/IPPY.jpg"
+    },
+    {
+      "name": "IPPY",
+      "address": "0xEab41Ee9beBACDbd837e780331D388874b3B7279",
+      "symbol": "$IPPY",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/%24IPPY.png"
+    },
+    {
+      "name": "꧁IP꧂",
+      "address": "0xA1FCF6F4A181801b4c0f42595556fc24d2C8271A",
+      "symbol": "꧁IP꧂",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/%EA%A7%81IP%EA%A7%82.png"
+    },
+    {
+      "name": "IPDOGE",
+      "address": "0x180B355123F5B9fF61606B07a9c92Fe26c5BC7D6",
+      "symbol": "IPDOGE",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/IPDOGE.jpg"
+    },
+    {
+      "name": "IP.World",
+      "address": "0xbfaCf9Ae98cff589134dEb19B0f8912B2a5FBfBf",
+      "symbol": "IPW",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/IPW.jpg"
+    },
+    {
+      "name": "wen moon",
+      "address": "0x4761F9C56cb0C3B20531B20c7461e025b8ef7884",
+      "symbol": "wmoon",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/wmoon.jpg"
+    },
+    {
+      "name": "GOLD",
+      "address": "0x733C03b49e1486E3D7ea6B475D09d02c56056bFb",
+      "symbol": "GOLD",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/GOLD.jpg"
+    },
+   
+    { 
+      "name": "Fiona",
+      "address": "0x985760141Ad9D0fEBb190F3C27797C5988B62240",
+      "symbol": "Fiona",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/Fiona.jpg"
+    },
+    {
+      "name": "shrek",
+      "address": "0x3a89Cb133A0bE07A217F39eDC551efEEffA1a9a6",
+      "symbol": "SHREK",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/SHREK.png"
+    },
+    {
+      "name": "NEZHA",
+      "address": "0xAEB8a347c12573Ae18D54aA8260a10d78EDFB8A3",
+      "symbol": "NEZHA",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/NEZHA.jpg"
+    },
+    {
+      "name": "ai16z",
+      "address": "0x5B7d94b6499Afa0303553957bd6c4A0Ec22fa77D",
+      "symbol": "AI16Z",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/AI16Z.png"
+    },
+    {
+      "name": "iPorn World",
+      "address": "0x0a894ae6E73D2bea1E53617398EB2bE643674b49",
+      "symbol": "IPW",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/iPorn.jpg"
+    },
+    {
+      "name": "Dark yellow labubu",
+      "address": "0x1DA959f248879aDd8E12E9EC6a5a4Fe2e11f32c4",
+      "symbol": "DYLABUBU",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/DYLABUBU.jpg"
+    },
+    {
+      "name": "Pudgy",
+      "address": "0x9B4d79B71b2E2767cEB4aAA30c7cb97D48c60C60",
+      "symbol": "Pudgy",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/Pudgy.png"
+    },
+    {
+      "name": "spinning nug",
+      "address": "0xB15339Cb8332927D82BeC41D8C28A8f870900760",
+      "symbol": "oiipoiip",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/oiipoiip.gif"
+    },
+    {
+      "name": "COMPOUTCYBER",
+      "address": "0x9784C5F5143baCB57794700FC0aa442c4952aF53",
+      "symbol": "CPCB",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/CPCB.jpg"
+    },
+    {
+      "name": "GMSTORY",
+      "address": "0x980afC74a9A18307a85e8eA971bDB486afd94464",
+      "symbol": "GMSTORY",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/GMSTORY.jpg"
+    },
+    {
+      "name": "MONK",
+      "address": "0xfb441515D64001CFd980065f9dF7663F3a04a3A9",
+      "symbol": "MNK",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/MNK.png"
+    },
+    {
+      "name": "Test",
+      "address": "0x5FaDdDe148d693Ea95b8b99E5c0Ce52FffB2c503",
+      "symbol": "TESTHOODIE",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/TESTHOODIE.png"
+    },
+    {
+      "name": "trust",
+      "address": "0x562C3A1be1E7019f32CB48d6B196445a4Ef6d9Df",
+      "symbol": "trst",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/trst.jpg"
+    },
+    {
+      "name": "meirl",
+      "address": "0xb66cE7458591c1b96aB8b433C0ad8C92dA007bc8",
+      "symbol": "meirl",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/meirl.png"
+    },
+    {
+      "name": "EMUST",
+      "address": "0x9870D3Fdbe5d436D48c8F8D5bE4B719092D45678",
+      "symbol": "EMUST",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/EMUST.jpg"
+    },
+    {
+      "name": "Caption America",
+      "address": "0xEaC49C98B0EdE8C9Ff43ee8Ff12bDB7b83CF480b",
+      "symbol": "CAPTION",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/CAPTION.jpg"
+    },
+    {
+      "name": "AORUN",
+      "address": "0xA62fBd16379047E1E762164B259BD7aAA1b76D2E",
+      "symbol": "AORUN",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/AORUN.png"
+    },
+    {
+      "name": "Crunchy Cat",
+      "address": "0x210e36B5CdB47C010C3225a065467EA193dED463",
+      "symbol": "CRUNCH",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": false,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/CRUNCH.png"
+    }
 ]
