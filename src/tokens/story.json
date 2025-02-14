@@ -6,7 +6,7 @@
       "decimals": 18,
       "chainId": 1514,
       "isVerified": true,
-      "logoURI": "https://ipfs.io/ipfs/bafkreidkfhg7hkfl6ysuyqgfaggmjn22fkn34sd3sgkfslhodgqiilkj4u"
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/IP.png"
     },
     {
       "name": "Wrapped IP",
@@ -15,7 +15,7 @@
       "decimals": 18,
       "chainId": 1514,
       "isVerified": true,
-      "logoURI": "https://ipfs.io/ipfs/bafkreidkfhg7hkfl6ysuyqgfaggmjn22fkn34sd3sgkfslhodgqiilkj4u"
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/WIP.png"
     },
     {
       "name": "USD Coin",
@@ -24,7 +24,7 @@
       "decimals": 6,
       "chainId": 1514,
       "isVerified": true,
-      "logoURI": "https://ipfs.io/ipfs/bafkreidncrqb2cyrbecg4ntfsk4mb4sw76yhl5urqc3f3xozpltglve7ty"
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/USDC.png"
     },
     {
       "name": "USD Tether",
@@ -33,7 +33,7 @@
       "decimals": 6,
       "chainId": 1514,
       "isVerified": true,
-      "logoURI": "https://ipfs.io/ipfs/bafkreia4f3h4rqekqineqopsvyg7dwdznkg7em4ttnjxwtrgkfh2j6irsy"
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/USDT.png"
     },
     {
       "name": "Wrapped ETH",
@@ -42,7 +42,7 @@
       "decimals": 18,
       "chainId": 1514,
       "isVerified": true,
-      "logoURI": "https://ipfs.io/ipfs/bafkreigckpl4lvbag6b6gg66duz6cq7wvhhb335mesvv4buurbdws24aue"
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/WETH.png"
     },
     {
       "name": "VerioIP",
@@ -51,7 +51,7 @@
       "decimals": 18,
       "chainId": 1514,
       "isVerified": true,
-      "logoURI": "https://ipfs.io/ipfs/bafkreic66g53sl2425xjsm4x6mdvxvhmtefkg4nprss45toruaudrbzvwu"
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/vIP.jpeg"
     },
     {
       "name": "StakedIP Token",
@@ -60,6 +60,6 @@
       "decimals": 18,
       "chainId": 1514,
       "isVerified": true,
-      "logoURI": "https://ipfs.io/ipfs/bafkreifjwlmvzhgnooznmri5zszoitivgzcivdphlabl5kvznrhixcjy7m"
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/stIP.png"
   }
 ]
