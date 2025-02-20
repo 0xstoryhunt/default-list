@@ -18,6 +18,15 @@
       "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/WIP.png"
     },
     {
+      "name": "Lyra",
+      "address": "0xa4f5c615f72ddeb2220471694fff1c0c3de051e1",
+      "symbol": "LYRA",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": true,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/Lyra.png"
+    },
+    {
       "name": "USD Coin",
       "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
       "symbol": "USDC",
