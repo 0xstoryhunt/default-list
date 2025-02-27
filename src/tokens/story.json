@@ -72,6 +72,15 @@
       "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/tokens-logo/tokens_logos/stIP.png"
     },
     {
+      "name": "Lil Benji",
+      "address": "0xc732227dfF21E35f01089961fb4f191c8ACd85bC",
+      "symbol": "LILBENJI",
+      "decimals": 18,
+      "chainId": 1514,
+      "isVerified": true,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/benju.jpeg"
+    },
+    {
       "name": "Sona",
       "address": "0x02353a3BD5c9668159cF9Fd54AC61b03212FCf41",
       "symbol": "Sona",
