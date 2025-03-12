@@ -412,5 +412,14 @@
     "chainId": 1514,
     "isVerified": false,
     "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/CRUNCH.png"
+  },
+  {
+    "name": "KOGA",
+    "address": "0x9b7b7218e2db914fea97985c00ac983a773e6b62",
+    "symbol": "KOGA",
+    "decimals": 18,
+    "chainId": 1514,
+    "isVerified": false,
+    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/KOGA.jpg"
   }
 ]
