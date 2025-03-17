@@ -19,7 +19,7 @@
   },
   {
     "name": "Lyra",
-    "address": "0xa4f5c615f72ddeb2220471694fff1c0c3de051e1",
+    "address": "0xa4f5c615f72DDeB2220471694ffF1c0c3dE051e1",
     "symbol": "LYRA",
     "decimals": 18,
     "chainId": 1514,
@@ -197,7 +197,7 @@
     "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/IPPY.jpg"
   },
   {
-    "name": "IPPY",
+    "name": "$IPPY",
     "address": "0xEab41Ee9beBACDbd837e780331D388874b3B7279",
     "symbol": "$IPPY",
     "decimals": 18,
@@ -226,7 +226,7 @@
   {
     "name": "IP.World",
     "address": "0xbfaCf9Ae98cff589134dEb19B0f8912B2a5FBfBf",
-    "symbol": "IPW",
+    "symbol": "IP.W",
     "decimals": 18,
     "chainId": 1514,
     "isVerified": false,
@@ -415,7 +415,7 @@
   },
   {
     "name": "KOGA",
-    "address": "0x9b7b7218e2db914fea97985c00ac983a773e6b62",
+    "address": "0x9b7B7218e2db914Fea97985c00Ac983A773e6B62",
     "symbol": "KOGA",
     "decimals": 18,
     "chainId": 1514,

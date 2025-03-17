@@ -1,61 +1,61 @@
 {
   "MULTICALL_CONTRACT": {
     "name": "MULTICALL CONTRACT",
-    "address": "0x980b8B588D94Ab63a11a7BFb807A5586f051Cabf",
+    "address": "0x546f0F82eEF5c20844362aA8BeF66F0a9BAba3C5",
     "shortName": "MULTICALL_CONTRACT",
     "chainId": 1315
   },
   "MULTICALL2_CONTRACT": {
     "name": "MULTICALL2 CONTRACT",
-    "address": "0x15a22EFf85bC8C37d589a3BC6087f88BF2aF871a",
+    "address": "0x428F57E75a1e362d5c819704366654Ef7e90a717",
     "shortName": "MULTICALL2_CONTRACT",
     "chainId": 1315
   },
   "TICKLENS_CONTRACT": {
     "name": "TICKLENS CONTRACT",
-    "address": "0xF19acFB5a9768C7F08972EF1838C1aDb79092773",
+    "address": "0xb18bCBd8b83fc1Bc31E370481bD554456FC371B4",
     "shortName": "TICKLENS_CONTRACT",
     "chainId": 1315
   },
   "QUOTERV2_CONTRACT": {
     "name": "QUOTER V2 CONTRACT",
-    "address": "0xBc6fBC80264Ab6945492539fA0d65B870e1B859d",
+    "address": "0xf02b1a3386D1495BC6BDB3f98a48ad9dAa5ba232",
     "shortName": "QUOTERV2_CONTRACT",
     "chainId": 1315
   },
   "QUOTER_CONTRACT": {
     "name": "QUOTER CONTRACT",
-    "address": "0xAFB761fa30845288bc7E7Ee2B22b964020BBbA0b",
+    "address": "0x72897A551d217848E15c7d9f5981BfAd49b46969",
     "shortName": "QUOTER_CONTRACT",
     "chainId": 1315
   },
   "NFT_POSITION_DESCRIPTOR_CONTRACT": {
     "name": "NON FUNGIBLE TOKEN POSITION DESCRIPTOR CONTRACT",
-    "address": "0xFC253591b870D0Cf518aF7581840457628bE72D5",
+    "address": "0xeE96404216dd0D6dbbe197ED1066B5CD414ef3b9",
     "shortName": "NFT_POSITION_DESCRIPTOR_CONTRACT",
     "chainId": 1315
   },
   "NFT_POSITION_MANAGER_CONTRACT": {
     "name": "NON FUNGIBLE TOKEN POSITION MANAGER CONTRACT",
-    "address": "0x8d5B4F1db0C023dd113EDE4d0632D57d2212efA5",
+    "address": "0xa09B218862abfAFB67A5E356b6f507F0e0Ce061E",
     "shortName": "NFT_POSITION_MANAGER_CONTRACT",
     "chainId": 1315
   },
   "SWAP_ROUTER_CONTRACT": {
     "name": "SWAP ROUTER CONTRACT",
-    "address": "0x848df3BFE2Fb0dc2775b6bB053b3df0101F70f73",
+    "address": "0x21bc5d68F6DA0E43A90f078bcCb04feddEdcC93b",
     "shortName": "SWAP_ROUTER_CONTRACT",
     "chainId": 1315
   },
   "ALPHA_HUNTER_CONTRACT": {
     "name": "ALPHA HUNTER CONTRACT",
-    "address": "0x31028C208C6d33bFD66605c2E3D593965fdceBDb",
+    "address": "0x774a44C1CBC75FCBD4Dc81F7b78E7C2796D25834",
     "shortName": "ALPHA_HUNTER_CONTRACT",
     "chainId": 1315
   },
   "LM_POOL_DEPLOYER_CONTRACT": {
     "name": "LM POOL DEPLOYER CONTRACT",
-    "address": "0xE6bE3Ddfb30331b7F0fdd71A5638411e26022859",
+    "address": "0x7bB29c1c1DB3586c659Dbd8FB96BA26F44317A66",
     "shortName": "LM_POOL_DEPLOYER_CONTRACT",
     "chainId": 1315
   }
