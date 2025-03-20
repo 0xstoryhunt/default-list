@@ -374,5 +374,13 @@
     "decimals": 18,
     "chainId": 1514,
     "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/KOGA.jpg"
+  },
+  {
+    "name": "Benjamin",
+    "address": "0x25F9c9715d1D700A50B2a9A06D80FE9f98CcB549",
+    "symbol": "BENJI",
+    "decimals": 18,
+    "chainId": 1514,
+    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/BENJI.jpg"
   }
 ]
