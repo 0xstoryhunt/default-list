@@ -5,7 +5,7 @@
     "symbol": "IP",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/IP.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/IP.png"
   },
   {
     "name": "Wrapped IP",
@@ -13,7 +13,7 @@
     "symbol": "WIP",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/WIP.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/WIP.png"
   },
   {
     "name": "Lyra",
@@ -21,7 +21,7 @@
     "symbol": "LYRA",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/Lyra.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/Lyra.png"
   },
   {
     "name": "USD Coin",
@@ -29,7 +29,7 @@
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/USDC.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/USDC.png"
   },
   {
     "name": "USD Tether",
@@ -37,7 +37,7 @@
     "symbol": "USDT",
     "decimals": 6,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/USDT.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/USDT.png"
   },
   {
     "name": "Wrapped ETH",
@@ -45,7 +45,7 @@
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/WETH.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/WETH.png"
   },
   {
     "name": "VerioIP",
@@ -53,7 +53,7 @@
     "symbol": "vIP",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/vIP.jpeg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/vIP.jpeg"
   },
   {
     "name": "StakedIP Token",
@@ -61,7 +61,7 @@
     "symbol": "stIP",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/stIP.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/stIP.png"
   },
   {
     "name": "Lil Benji",
@@ -69,7 +69,7 @@
     "symbol": "LILBENJI",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/benju.jpeg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/benju.jpeg"
   },
   {
     "name": "Sona",
@@ -77,7 +77,7 @@
     "symbol": "Sona",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/Sona.jpg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/Sona.jpg"
   },
   {
     "name": "Elon Musk",
@@ -85,7 +85,7 @@
     "symbol": "MUSK",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/MUSK.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/MUSK.png"
   },
   {
     "name": "red",
@@ -93,7 +93,7 @@
     "symbol": "red",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/red.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/red.png"
   },
   {
     "name": "Sona_Agent",
@@ -101,14 +101,14 @@
     "symbol": "Sona_Agent",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/sona_agent.jpg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/sona_agent.jpg"
   },{
     "name": "dwq",
     "address": "0xf3853862fb3c13c919e2b168fa144969a6aC8a37",
     "symbol": "dwq",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/dwq.jpg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/dwq.jpg"
   },
   {
     "name": "CryptoAI",
@@ -116,7 +116,7 @@
     "symbol": "CryptoAI",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/cryptoAI.jpg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/cryptoAI.jpg"
   },
   {
     "name": "IP CATIPCAT",
@@ -124,7 +124,7 @@
     "symbol": "IPCAT",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/ipcat.gif"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/ipcat.gif"
   },
   {
     "name": "Broccoli's Story",
@@ -132,7 +132,7 @@
     "symbol": "Broccoli",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/Broccoli.jpg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/Broccoli.jpg"
   },
   {
     "name": "Barron Trump",
@@ -140,7 +140,7 @@
     "symbol": "Barron",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/Barron.jpg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/Barron.jpg"
   },
   {
     "name": "NeuroBioSynai",
@@ -148,7 +148,7 @@
     "symbol": "NBIO",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/NBIO.jpg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/NBIO.jpg"
   },
   {
     "name": "jason",
@@ -156,7 +156,7 @@
     "symbol": "$JSON",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/%24JSON.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/%24JSON.png"
   },
   {
     "name": "Jason Zhao",
@@ -164,7 +164,7 @@
     "symbol": "Test",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/Test.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/Test.png"
   },
   {
     "name": "IPPY",
@@ -172,7 +172,7 @@
     "symbol": "IPPY",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/IPPY.jpg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/IPPY.jpg"
   },
   {
     "name": "$IPPY",
@@ -180,7 +180,7 @@
     "symbol": "$IPPY",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/%24IPPY.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/%24IPPY.png"
   },
   {
     "name": "꧁IP꧂",
@@ -188,7 +188,7 @@
     "symbol": "꧁IP꧂",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/%EA%A7%81IP%EA%A7%82.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/%EA%A7%81IP%EA%A7%82.png"
   },
   {
     "name": "IPDOGE",
@@ -196,7 +196,7 @@
     "symbol": "IPDOGE",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/IPDOGE.jpg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/IPDOGE.jpg"
   },
   {
     "name": "IP.World",
@@ -204,7 +204,7 @@
     "symbol": "IP.W",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/IPW.jpg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/IPW.jpg"
   },
   {
     "name": "wen moon",
@@ -212,7 +212,7 @@
     "symbol": "wmoon",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/wmoon.jpg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/wmoon.jpg"
   },
   {
     "name": "GOLD",
@@ -220,7 +220,7 @@
     "symbol": "GOLD",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/GOLD.jpg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/GOLD.jpg"
   },
  
   { 
@@ -229,7 +229,7 @@
     "symbol": "Fiona",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/Fiona.jpg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/Fiona.jpg"
   },
   {
     "name": "shrek",
@@ -237,7 +237,7 @@
     "symbol": "SHREK",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/SHREK.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/SHREK.png"
   },
   {
     "name": "NEZHA",
@@ -245,7 +245,7 @@
     "symbol": "NEZHA",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/NEZHA.jpg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/NEZHA.jpg"
   },
   {
     "name": "ai16z",
@@ -253,7 +253,7 @@
     "symbol": "AI16Z",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/AI16Z.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/AI16Z.png"
   },
   {
     "name": "iPorn World",
@@ -261,7 +261,7 @@
     "symbol": "IPW",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/iPorn.jpg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/iPorn.jpg"
   },
   {
     "name": "Dark yellow labubu",
@@ -269,7 +269,7 @@
     "symbol": "DYLABUBU",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/DYLABUBU.jpg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/DYLABUBU.jpg"
   },
   {
     "name": "Pudgy",
@@ -277,7 +277,7 @@
     "symbol": "Pudgy",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/Pudgy.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/Pudgy.png"
   },
   {
     "name": "spinning nug",
@@ -285,7 +285,7 @@
     "symbol": "oiipoiip",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/oiipoiip.gif"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/oiipoiip.gif"
   },
   {
     "name": "COMPOUTCYBER",
@@ -293,7 +293,7 @@
     "symbol": "CPCB",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/CPCB.jpg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/CPCB.jpg"
   },
   {
     "name": "GMSTORY",
@@ -301,7 +301,7 @@
     "symbol": "GMSTORY",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/GMSTORY.jpg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/GMSTORY.jpg"
   },
   {
     "name": "MONK",
@@ -309,7 +309,7 @@
     "symbol": "MNK",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/MNK.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/MNK.png"
   },
   {
     "name": "Test",
@@ -317,7 +317,7 @@
     "symbol": "TESTHOODIE",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/TESTHOODIE.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/TESTHOODIE.png"
   },
   {
     "name": "trust",
@@ -325,7 +325,7 @@
     "symbol": "trst",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/trst.jpg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/trst.jpg"
   },
   {
     "name": "meirl",
@@ -333,7 +333,7 @@
     "symbol": "meirl",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/meirl.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/meirl.png"
   },
   {
     "name": "EMUST",
@@ -341,7 +341,7 @@
     "symbol": "EMUST",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/EMUST.jpg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/EMUST.jpg"
   },
   {
     "name": "Caption America",
@@ -349,7 +349,7 @@
     "symbol": "CAPTION",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/CAPTION.jpg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/CAPTION.jpg"
   },
   {
     "name": "AORUN",
@@ -357,7 +357,7 @@
     "symbol": "AORUN",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/AORUN.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/AORUN.png"
   },
   {
     "name": "Crunchy Cat",
@@ -365,7 +365,7 @@
     "symbol": "CRUNCH",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/CRUNCH.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/CRUNCH.png"
   },
   {
     "name": "KOGA",
@@ -373,7 +373,7 @@
     "symbol": "KOGA",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/KOGA.jpg"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/KOGA.jpg"
   },
   {
     "name": "Benjamin",
@@ -381,6 +381,6 @@
     "symbol": "BENJI",
     "decimals": 18,
     "chainId": 1514,
-    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/BENJI.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/BENJI.png"
   }
 ]
