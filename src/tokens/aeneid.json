@@ -38,5 +38,21 @@
     "decimals": 18,
     "chainId": 1315,
     "logoURI": "https://ipfs.io/ipfs/bafkreigckpl4lvbag6b6gg66duz6cq7wvhhb335mesvv4buurbdws24aue"
+  },
+    {
+    "name": "Test Aria Premiere Launch 1",
+    "address": "0x0F1c968C99DF87131fc38830db0d0e3Fb87Ae417",
+    "symbol": "APL1",
+    "decimals": 18,
+    "chainId": 1315,
+    "logoURI": "https://framerusercontent.com/images/afOwNOn4dsqKKYWC0f2nZeP8ULA.png"
+  },
+    {
+    "name": "Test Staked Aria Premiere Launch 2 ",
+    "address": "0x3Fc7ba1454cD12ED741b5365C12dFCEeedfB141D",
+    "symbol": "stAPL2",
+    "decimals": 18,
+    "chainId": 1315,
+    "logoURI": "https://framerusercontent.com/images/afOwNOn4dsqKKYWC0f2nZeP8ULA.png"
   }
 ]

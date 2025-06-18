@@ -1,0 +1,515 @@
+{
+  "name": "StoryHunt Default List",
+  "timestamp": "2025-06-18T06:31:12.320Z",
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 7
+  },
+  "tags": {},
+  "logoURI": "https://ipfs.io/ipfs/bafkreicy5wj4ahfeaopdfpduna3yf7klfl6nkum6pg4buwj6cdjmvegilu",
+  "keywords": [
+    "default",
+    "storyhunt",
+    "token",
+    "list"
+  ],
+  "tokens": [
+    {
+      "name": "Test Aria Premiere Launch 1",
+      "address": "0x0F1c968C99DF87131fc38830db0d0e3Fb87Ae417",
+      "symbol": "APL1",
+      "decimals": 18,
+      "chainId": 1315,
+      "logoURI": "https://framerusercontent.com/images/afOwNOn4dsqKKYWC0f2nZeP8ULA.png"
+    },
+    {
+      "name": "IP",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "IP",
+      "decimals": 6,
+      "chainId": 1315,
+      "logoURI": "https://ipfs.io/ipfs/bafkreidkfhg7hkfl6ysuyqgfaggmjn22fkn34sd3sgkfslhodgqiilkj4u"
+    },
+    {
+      "name": "Test Staked Aria Premiere Launch 2 ",
+      "address": "0x3Fc7ba1454cD12ED741b5365C12dFCEeedfB141D",
+      "symbol": "stAPL2",
+      "decimals": 18,
+      "chainId": 1315,
+      "logoURI": "https://framerusercontent.com/images/afOwNOn4dsqKKYWC0f2nZeP8ULA.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x8c7C52EabB0FCbcAeBCe2556D9A719d539EA02D8",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1315,
+      "logoURI": "https://ipfs.io/ipfs/bafkreidncrqb2cyrbecg4ntfsk4mb4sw76yhl5urqc3f3xozpltglve7ty"
+    },
+    {
+      "name": "USD Tether",
+      "address": "0x3c381171558d0300D12bC6311C5b5f66403737ab",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1315,
+      "logoURI": "https://ipfs.io/ipfs/bafkreia4f3h4rqekqineqopsvyg7dwdznkg7em4ttnjxwtrgkfh2j6irsy"
+    },
+    {
+      "name": "Wrapped ETH",
+      "address": "0x40559a0e871D0308E540f6F2e5C975904cf0bF8A",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 1315,
+      "logoURI": "https://ipfs.io/ipfs/bafkreigckpl4lvbag6b6gg66duz6cq7wvhhb335mesvv4buurbdws24aue"
+    },
+    {
+      "name": "Wrapped IP",
+      "address": "0x1514000000000000000000000000000000000000",
+      "symbol": "WIP",
+      "decimals": 18,
+      "chainId": 1315,
+      "logoURI": "https://ipfs.io/ipfs/bafkreidkfhg7hkfl6ysuyqgfaggmjn22fkn34sd3sgkfslhodgqiilkj4u"
+    },
+    {
+      "name": "$IPPY",
+      "address": "0xEab41Ee9beBACDbd837e780331D388874b3B7279",
+      "symbol": "$IPPY",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/%24IPPY.png"
+    },
+    {
+      "name": "jason",
+      "address": "0xA52DB6C067B366259f0Fee4A049701512cD0a447",
+      "symbol": "$JSON",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/%24JSON.png"
+    },
+    {
+      "name": "ai16z",
+      "address": "0x5B7d94b6499Afa0303553957bd6c4A0Ec22fa77D",
+      "symbol": "AI16Z",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/AI16Z.png"
+    },
+    {
+      "name": "AORUN",
+      "address": "0xA62fBd16379047E1E762164B259BD7aAA1b76D2E",
+      "symbol": "AORUN",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/AORUN.png"
+    },
+    {
+      "name": "Barron Trump",
+      "address": "0x0154B604ae240c5A0CD522F7aBc202A2cA0bb49d",
+      "symbol": "Barron",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/Barron.jpg"
+    },
+    {
+      "name": "Benjamin",
+      "address": "0x25F9c9715d1D700A50B2a9A06D80FE9f98CcB549",
+      "symbol": "BENJI",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/BENJI.png"
+    },
+    {
+      "name": "Broccoli's Story",
+      "address": "0xAfa7eC446CbeCa2b9A1752edFd28908FF2E0eA71",
+      "symbol": "Broccoli",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/Broccoli.jpg"
+    },
+    {
+      "name": "Caption America",
+      "address": "0xEaC49C98B0EdE8C9Ff43ee8Ff12bDB7b83CF480b",
+      "symbol": "CAPTION",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/CAPTION.jpg"
+    },
+    {
+      "name": "COMPOUTCYBER",
+      "address": "0x9784C5F5143baCB57794700FC0aa442c4952aF53",
+      "symbol": "CPCB",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/CPCB.jpg"
+    },
+    {
+      "name": "Crunchy Cat",
+      "address": "0x210e36B5CdB47C010C3225a065467EA193dED463",
+      "symbol": "CRUNCH",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/CRUNCH.png"
+    },
+    {
+      "name": "CryptoAI",
+      "address": "0xAd7Ef82D900BB83590721faFBdcD9dFb4E13645F",
+      "symbol": "CryptoAI",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/cryptoAI.jpg"
+    },
+    {
+      "name": "dwq",
+      "address": "0xf3853862fb3c13c919e2b168fa144969a6aC8a37",
+      "symbol": "dwq",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/dwq.jpg"
+    },
+    {
+      "name": "Dark yellow labubu",
+      "address": "0x1DA959f248879aDd8E12E9EC6a5a4Fe2e11f32c4",
+      "symbol": "DYLABUBU",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/DYLABUBU.jpg"
+    },
+    {
+      "name": "EMUST",
+      "address": "0x9870D3Fdbe5d436D48c8F8D5bE4B719092D45678",
+      "symbol": "EMUST",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/EMUST.jpg"
+    },
+    {
+      "name": "Fiona",
+      "address": "0x985760141Ad9D0fEBb190F3C27797C5988B62240",
+      "symbol": "Fiona",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/Fiona.jpg"
+    },
+    {
+      "name": "GMSTORY",
+      "address": "0x980afC74a9A18307a85e8eA971bDB486afd94464",
+      "symbol": "GMSTORY",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/GMSTORY.jpg"
+    },
+    {
+      "name": "GOLD",
+      "address": "0x733C03b49e1486E3D7ea6B475D09d02c56056bFb",
+      "symbol": "GOLD",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/GOLD.jpg"
+    },
+    {
+      "name": "IP",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "IP",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/IP.png"
+    },
+    {
+      "name": "IP.World",
+      "address": "0xbfaCf9Ae98cff589134dEb19B0f8912B2a5FBfBf",
+      "symbol": "IP.W",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/IPW.jpg"
+    },
+    {
+      "name": "IP CATIPCAT",
+      "address": "0x132F3ed05d88E90D54C3085613b9222F15dbDBb6",
+      "symbol": "IPCAT",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/ipcat.gif"
+    },
+    {
+      "name": "IPDOGE",
+      "address": "0x180B355123F5B9fF61606B07a9c92Fe26c5BC7D6",
+      "symbol": "IPDOGE",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/IPDOGE.jpg"
+    },
+    {
+      "name": "IPPY",
+      "address": "0x57E76c18F3fF56aD38b230dD10DeC27835B468F1",
+      "symbol": "IPPY",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/IPPY.jpg"
+    },
+    {
+      "name": "iPorn World",
+      "address": "0x0a894ae6E73D2bea1E53617398EB2bE643674b49",
+      "symbol": "IPW",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/iPorn.jpg"
+    },
+    {
+      "name": "KOGA",
+      "address": "0x9b7B7218e2db914Fea97985c00Ac983A773e6B62",
+      "symbol": "KOGA",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/KOGA.jpg"
+    },
+    {
+      "name": "Lil Benji",
+      "address": "0xc732227dfF21E35f01089961fb4f191c8ACd85bC",
+      "symbol": "LILBENJI",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/benju.jpeg"
+    },
+    {
+      "name": "Lyra",
+      "address": "0xa4f5c615f72DDeB2220471694ffF1c0c3dE051e1",
+      "symbol": "LYRA",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/Lyra.png"
+    },
+    {
+      "name": "meirl",
+      "address": "0xb66cE7458591c1b96aB8b433C0ad8C92dA007bc8",
+      "symbol": "meirl",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/meirl.png"
+    },
+    {
+      "name": "MONK",
+      "address": "0xfb441515D64001CFd980065f9dF7663F3a04a3A9",
+      "symbol": "MNK",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/MNK.png"
+    },
+    {
+      "name": "Elon Musk",
+      "address": "0x0C46505f401e0a8337eEeCBE089973b69c95675d",
+      "symbol": "MUSK",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/MUSK.png"
+    },
+    {
+      "name": "NeuroBioSynai",
+      "address": "0xA7Cb8f5BC4df4123eEA7c092234eC6EA5Ffa8F79",
+      "symbol": "NBIO",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/NBIO.jpg"
+    },
+    {
+      "name": "NEZHA",
+      "address": "0xAEB8a347c12573Ae18D54aA8260a10d78EDFB8A3",
+      "symbol": "NEZHA",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/NEZHA.jpg"
+    },
+    {
+      "name": "spinning nug",
+      "address": "0xB15339Cb8332927D82BeC41D8C28A8f870900760",
+      "symbol": "oiipoiip",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/oiipoiip.gif"
+    },
+    {
+      "name": "Pudgy",
+      "address": "0x9B4d79B71b2E2767cEB4aAA30c7cb97D48c60C60",
+      "symbol": "Pudgy",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/Pudgy.png"
+    },
+    {
+      "name": "red",
+      "address": "0x290a6885439e7d00569957CbFEDad844a4AcAE3B",
+      "symbol": "red",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/red.png"
+    },
+    {
+      "name": "shrek",
+      "address": "0x3a89Cb133A0bE07A217F39eDC551efEEffA1a9a6",
+      "symbol": "SHREK",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/SHREK.png"
+    },
+    {
+      "name": "Sona",
+      "address": "0x02353a3BD5c9668159cF9Fd54AC61b03212FCf41",
+      "symbol": "Sona",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/Sona.jpg"
+    },
+    {
+      "name": "Sona_Agent",
+      "address": "0x7ca6f90ab945ceA3580757E0DD9ce985DD576C98",
+      "symbol": "Sona_Agent",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/sona_agent.jpg"
+    },
+    {
+      "name": "StakedIP Token",
+      "address": "0xd07Faed671decf3C5A6cc038dAD97c8EFDb507c0",
+      "symbol": "stIP",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/stIP.png"
+    },
+    {
+      "name": "Jason Zhao",
+      "address": "0x1E7130f87E9e1272f8F84420FCb80dEa8Fd4F339",
+      "symbol": "Test",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/Test.png"
+    },
+    {
+      "name": "Test",
+      "address": "0x5FaDdDe148d693Ea95b8b99E5c0Ce52FffB2c503",
+      "symbol": "TESTHOODIE",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/TESTHOODIE.png"
+    },
+    {
+      "name": "trust",
+      "address": "0x562C3A1be1E7019f32CB48d6B196445a4Ef6d9Df",
+      "symbol": "trst",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/trst.jpg"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/USDC.png"
+    },
+    {
+      "name": "USD Tether",
+      "address": "0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/USDT.png"
+    },
+    {
+      "name": "VerioIP",
+      "address": "0x5267F7eE069CEB3D8F1c760c215569b79d0685aD",
+      "symbol": "vIP",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/vIP.jpeg"
+    },
+    {
+      "name": "Wrapped ETH",
+      "address": "0xBAb93B7ad7fE8692A878B95a8e689423437cc500",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/WETH.png"
+    },
+    {
+      "name": "Wrapped IP",
+      "address": "0x1514000000000000000000000000000000000000",
+      "symbol": "WIP",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/WIP.png"
+    },
+    {
+      "name": "wen moon",
+      "address": "0x4761F9C56cb0C3B20531B20c7461e025b8ef7884",
+      "symbol": "wmoon",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/wmoon.jpg"
+    },
+    {
+      "name": "꧁IP꧂",
+      "address": "0xA1FCF6F4A181801b4c0f42595556fc24d2C8271A",
+      "symbol": "꧁IP꧂",
+      "decimals": 18,
+      "chainId": 1514,
+      "logoURI": "https://default-list-git-vercel-deploy-infinite-seas.vercel.app/tokens_logos/%EA%A7%81IP%EA%A7%82.png"
+    },
+    {
+      "name": "Farmer Are The Enemies",
+      "address": "0x181c610790F508F281b48Ca29ddc1DFfff9B0D80",
+      "symbol": "FATE",
+      "decimals": 18,
+      "chainId": 1516,
+      "logoURI": "https://ipfs.io/ipfs/bafkreicwvwj6ein3in3v4gmkwm44ruxx2emffagoiphheqnrjwfw26mdhu"
+    },
+    {
+      "name": "IP",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "IP",
+      "decimals": 6,
+      "chainId": 1516,
+      "logoURI": "https://ipfs.io/ipfs/bafkreidkfhg7hkfl6ysuyqgfaggmjn22fkn34sd3sgkfslhodgqiilkj4u"
+    },
+    {
+      "name": "Jutsu",
+      "address": "0x368525E90dfB4e6CF11d6E2037a2551A7212a4c0",
+      "symbol": "JUTSU",
+      "decimals": 18,
+      "chainId": 1516,
+      "logoURI": "https://ipfs.io/ipfs/bafkreifuayaqchnvvbeaoixhk35sqmrm6bd26qwberkfwbqw2gmglryk2u"
+    },
+    {
+      "name": "USDCoin",
+      "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1516,
+      "logoURI": "https://ipfs.io/ipfs/bafkreidncrqb2cyrbecg4ntfsk4mb4sw76yhl5urqc3f3xozpltglve7ty"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0xA1a186F72Bbe74Ae1232EcEc2Fed407784263089",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 1516,
+      "logoURI": "https://ipfs.io/ipfs/bafkreicir3m6lv6kbbyzhx2fm5qxhrmawl5yxh6ubk4qmgpzcabjzqnofa"
+    },
+    {
+      "name": "Wrapped ETH",
+      "address": "0xA0b9f31EE26EBBa1af296E43897BEA5e76761e68",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 1516,
+      "logoURI": "https://ipfs.io/ipfs/bafkreigckpl4lvbag6b6gg66duz6cq7wvhhb335mesvv4buurbdws24aue"
+    },
+    {
+      "name": "Wrapped IP",
+      "address": "0x1516000000000000000000000000000000000000",
+      "symbol": "WIP",
+      "decimals": 18,
+      "chainId": 1516,
+      "logoURI": "https://ipfs.io/ipfs/bafkreidkfhg7hkfl6ysuyqgfaggmjn22fkn34sd3sgkfslhodgqiilkj4u"
+    }
+  ]
+}
