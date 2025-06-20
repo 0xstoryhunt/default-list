@@ -54,5 +54,21 @@
     "decimals": 18,
     "chainId": 1315,
     "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/apl.png"
+  },
+  {
+    "name": "n3 test Aria Premiere Launch 3",
+    "address": "0xd600493a8cCAB21D08984D1B9a736590cBE11bE2",
+    "symbol": "APL3",
+    "decimals": 18,
+    "chainId": 1315,
+    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/apl.png"
+  },
+  {
+    "name": "n3 Staked Aria Premiere Launch 3",
+    "address": "0xe1C935F071Cf4Ad76aA769855Ea5BaD66146424a",
+    "symbol": "stAPL3",
+    "decimals": 18,
+    "chainId": 1315,
+    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/apl.png"
   }
 ]
