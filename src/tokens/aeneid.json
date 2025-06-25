@@ -70,5 +70,13 @@
     "decimals": 18,
     "chainId": 1315,
     "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/apl.png"
+  },
+  {
+    "name": "APLXYZ2",
+    "address": "0x9D3E7B6d8F46b2F30Da9aB3fF4074dCdE9B92a03",
+    "symbol": "APLXYZ2",
+    "decimals": 18,
+    "chainId": 1315,
+    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/apl.png"
   }
 ]
