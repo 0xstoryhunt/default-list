@@ -2478,5 +2478,21 @@
         "symbol": "BROCCOLI",
         "decimals": 18,
         "chainId": 1514
+    },
+    {
+        "address": "0xfE82012eCcE57a188E5f9f3fC1Cb2D335C58F1f5",
+        "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/APL.jpg",
+        "name": "Aria Premiere Launch",
+        "symbol": "APL",
+        "decimals": 18,
+        "chainId": 1514
+    },
+        {
+        "address": "0xb5461c1FD0312Cd4bF037058F8a391e6A42F9639",
+        "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/stAPL.jpg",
+        "name": "Staked Aria Premiere Launch",
+        "symbol": "stAPL",
+        "decimals": 18,
+        "chainId": 1514
     }
 ]
