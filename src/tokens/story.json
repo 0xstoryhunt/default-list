@@ -382,5 +382,13 @@
     "decimals": 18,
     "chainId": 1514,
     "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/BENJI.png"
+  },
+  {
+    "name": " UPONLY",
+    "address": "0x2E25b546943371F328E0EA799c4E36b7bBdBfa05",
+    "symbol": "UPONLY",
+    "decimals": 18,
+    "chainId": 1514,
+    "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/UPONLY.png"
   }
 ]
