@@ -39,20 +39,53 @@
     "chainId": 1315,
     "logoURI": "https://ipfs.io/ipfs/bafkreigckpl4lvbag6b6gg66duz6cq7wvhhb335mesvv4buurbdws24aue"
   },
-    {
+  {
     "name": "Test Aria Premiere Launch 1",
     "address": "0x0F1c968C99DF87131fc38830db0d0e3Fb87Ae417",
     "symbol": "APL1",
     "decimals": 18,
     "chainId": 1315,
-    "logoURI": "https://framerusercontent.com/images/afOwNOn4dsqKKYWC0f2nZeP8ULA.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/apl.png"
   },
-    {
-    "name": "Test Staked Aria Premiere Launch 2 ",
+  {
+    "name": "Test Staked Aria Premiere Launch 2",
     "address": "0x3Fc7ba1454cD12ED741b5365C12dFCEeedfB141D",
     "symbol": "stAPL2",
     "decimals": 18,
     "chainId": 1315,
-    "logoURI": "https://framerusercontent.com/images/afOwNOn4dsqKKYWC0f2nZeP8ULA.png"
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/apl.png"
+  },
+  {
+    "name": "n3 test Aria Premiere Launch 3",
+    "address": "0xd600493a8cCAB21D08984D1B9a736590cBE11bE2",
+    "symbol": "APL3",
+    "decimals": 18,
+    "chainId": 1315,
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/apl.png"
+  },
+  {
+    "name": "n3 Staked Aria Premiere Launch 3",
+    "address": "0xe1C935F071Cf4Ad76aA769855Ea5BaD66146424a",
+    "symbol": "stAPL3",
+    "decimals": 18,
+    "chainId": 1315,
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/apl.png"
+  },
+  {
+    "name": "APLXYZ2",
+    "address": "0x9D3E7B6d8F46b2F30Da9aB3fF4074dCdE9B92a03",
+    "symbol": "APLXYZ2",
+    "decimals": 18,
+    "chainId": 1315,
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/apl.png"
+  },
+  {
+    "name": "APLXYZ3",
+    "address": "0x464F93e2581E5E37481B450fc81c5964da07268E",
+    "symbol": "APLXYZ3",
+    "decimals": 18,
+    "chainId": 1315,
+    "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/apl.png"
   }
 ]
+
