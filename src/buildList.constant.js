@@ -13,13 +13,7 @@ const aeneid_core_contracts = require("./constants/aeneid/core-contract.json");
 const aeneid_periphery_contracts = require("./constants/aeneid/periphery-contract.json");
 const aeneid_constants = require("./constants/aeneid/constants.json");
 
-//odyssey
-const odyssey_core_contracts = require("./constants/odyssey/core-contract.json");
-const odyssey_periphery_contracts = require("./constants/odyssey/periphery-contract.json");
-const odyssey_constants = require("./constants/odyssey/constants.json");
-
 const ChainId = {
-  ODYSSEY: 1516,
   STORY: 1514,
   AENEID: 1315,
 };
@@ -43,8 +37,7 @@ module.exports = function buildList() {
     constants: {
       interfaces,
       [ChainId.STORY]: {...story_constants, ...story_core_contracts, ...story_periphery_contracts},
-      [ChainId.AENEID]: {...aeneid_constants, ...aeneid_core_contracts, ...aeneid_periphery_contracts},
-      [ChainId.ODYSSEY]: {...odyssey_constants, ...odyssey_core_contracts, ...odyssey_periphery_contracts},
+      [ChainId.AENEID]: {...aeneid_constants, ...aeneid_core_contracts, ...aeneid_periphery_contracts}
     },
   };
 };

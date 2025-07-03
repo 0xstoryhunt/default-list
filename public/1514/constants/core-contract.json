@@ -1,0 +1,14 @@
+{
+  "V3_POOL_DEPLOYER": {
+    "name": "V3 POOL DEPLOYER",
+    "address": "0x74014BbbE2702274c01acA0BD0c5389779f5A050",
+    "shortName": "V3_POOL_DEPLOYER",
+    "chainId": 1514
+  },
+  "V3_FACTORY_CONTRACT": {
+    "name": "V3 FACTORY CONTRACT",
+    "address": "0xa111dDbE973094F949D78Ad755cd560F8737B7e2",
+    "shortName": "V3_FACTORY_CONTRACT",
+    "chainId": 1514
+  }
+}

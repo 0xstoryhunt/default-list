@@ -4,7 +4,11 @@
   "description": "StoryHunt default list",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.constant.js > build/storyhunt-default.constantlist.json  && node src/write.token.js > build/storyhunt-default.tokenlist.json ",
+    "build:aeneid": "mkdir -p public/1315/constants && cp src/constants/aeneid/* public/1315/constants && cp src/tokens/aeneid.json public/1315/tokens.json",
+    "build:story": "mkdir -p public/1514/constants && cp src/constants/story/* public/1514/constants && cp src/tokens/story.json public/1514/tokens.json",
+    "build:public": "mkdir -p public && node src/write.constant.js > public/constants.json && node src/write.token.js > public/tokens.json",
+    "build:build": "rimraf build && mkdir -p build && node src/write.constant.js > build/constants.json && node src/write.token.js > build/tokens.json",
+    "build:all": "npm run build:public && npm run build:build && npm run build:aeneid && npm run build:story",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
