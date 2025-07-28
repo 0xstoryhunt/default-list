@@ -391,6 +391,14 @@
         "chainId": 1514,
         "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/UPONLY.png"
     },
+        {
+        "name": " Evil Larry",
+        "address": "0x693c7AcF65e52C71bAFE555Bc22d69cB7f8a78a2",
+        "symbol": "LARRY",
+        "decimals": 18,
+        "chainId": 1514,
+        "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/LARRY.png"
+    },
     {
         "address": "0xfE82012eCcE57a188E5f9f3fC1Cb2D335C58F1f5",
         "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/APL.jpg",
