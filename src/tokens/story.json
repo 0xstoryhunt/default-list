@@ -2505,7 +2505,7 @@
     },
     {
         "address": "0x543374350269cce6651358769512875faa4cccff",
-        "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/IPPY.avif",
+        "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/IPPY.jpg",
         "name": "IPPY",
         "symbol": "IPPY",
         "decimals": 18,
@@ -2513,7 +2513,7 @@
     },
     {
         "address": "0xe1d79d90551f8ddef1904887629c6f3f89f39ba2",
-        "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/SUPERLEE.avif",
+        "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/SUPERLEE.jpg",
         "name": "SUPERLEE",
         "symbol": "SUPERLEE",
         "decimals": 18,
@@ -2521,7 +2521,7 @@
     },
     {
         "address": "0x42581892d93b8efc300b71d05041a5027f29cc1c",
-        "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/Reppodant.avif",
+        "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/Reppodant.jpg",
         "name": "Reppodant",
         "symbol": "Reppodant",
         "decimals": 18,
