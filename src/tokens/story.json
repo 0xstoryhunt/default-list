@@ -2526,5 +2526,13 @@
         "symbol": "Reppodant",
         "decimals": 18,
         "chainId": 1514
+    },
+    {
+        "address": "0xd1b2d3df51c3e5a22b09993354b8717e3a7e4d3b",
+        "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/Zazu.jpeg",
+        "name": "Zazu",
+        "symbol": "ZAZU",
+        "decimals": 18,
+        "chainId": 1514
     }
 ]
