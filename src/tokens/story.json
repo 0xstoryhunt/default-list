@@ -2534,5 +2534,13 @@
         "symbol": "ZAZU",
         "decimals": 18,
         "chainId": 1514
+    },
+    {
+        "address": "0x017f09d3ae4a905e8ac927f4bf13cdedbb74d01e",
+        "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/pinkfong.jpeg",
+        "name": "Pinkfong",
+        "symbol": "PINKFONG",
+        "decimals": 18,
+        "chainId": 1514
     }
 ]
