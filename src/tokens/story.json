@@ -2542,5 +2542,13 @@
         "symbol": "PINKFONG",
         "decimals": 18,
         "chainId": 1514
+    },
+    {
+        "address": "0xC9cbbD8f211300Dd0e7a3933b7AeEdAC6F61Dd52",
+        "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/ARIAIP.jpg",
+        "name": "Aria",
+        "symbol": "ARIAIP",
+        "decimals": 18,
+        "chainId": 1514
     }
 ]
